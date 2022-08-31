@@ -129,9 +129,9 @@ comments:
   gitalk:
     clientID    : f897a7f318790a708a36 # GitHub Application Client ID
     clientSecret:  6d0e179e5a71f90f0e08bc09707aca28f2dc01ba # GitHub Application Client Secret
-    repository  :  blog-comments # GitHub repo
+    repository  :  936187425.github.io # GitHub repo
     owner       : 936187425 # GitHub repo owner
-    admin: 936187425 # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    admin:  # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
 
   ## Valine
