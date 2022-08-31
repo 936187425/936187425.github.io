@@ -36,7 +36,7 @@ author:
   type      : # "person" (default), "organization"
   name      : hypan
   url       :
-  avatar    : /assets/images/logo/avatar.jpg # path or url of avatar image (square)
+  avatar    : https://avatars.githubusercontent.com/u/49527345?v=4 # path or url of avatar image (square)
   bio       : 有才,有情,有趣,不俗,不媚.有傲骨,无傲气! 
   email     : hypan@mail.ustc.edu.cn
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
